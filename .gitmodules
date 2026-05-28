@@ -5,3 +5,6 @@
 [submodule "clmstan"]
 	path = clmstan
 	url = https://github.com/t-momozaki/clmstan
+[submodule "mhn"]
+	path = mhn
+	url = https://github.com/t-momozaki/mhn
